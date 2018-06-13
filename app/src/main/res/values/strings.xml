@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PixGetter</string>
+    <string name="menu_pixabay_link">Go to pixabay.com</string>
+
+    <string name="search_title_keyword">"Keywords: "</string>
+    <string name="search_hint">ex. yellow+flowers</string>
+    <string name="search_title_order">"Order: "</string>
+    <string name="search_reload">reload</string>
+
+    <string-array name="order_list">
+        <item>popular</item>
+        <item>latest</item>
+    </string-array>
+
+    <string name="title_pageURL">"pageURL: "</string>
+    <string name="title_type">"type: "</string>
+    <string name="title_tags">"tags: "</string>
+    <string name="title_views">"views: "</string>
+    <string name="title_downloads">"downloads: "</string>
+    <string name="title_favorites">"favorites: "</string>
+    <string name="title_likes">"likes: "</string>
+    <string name="title_comments">"comments: "</string>
+
+    <string name="title_previewURL">preview image</string>
+    <string name="title_webformatURL">webformat image</string>
+    <string name="title_imageURL">large Image</string>
+
+    <string name="x">" x "</string>
+
+    <string name="item_image_desc">item image</string>
+</resources>
